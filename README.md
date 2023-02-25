@@ -15,6 +15,7 @@ Dependencies
 
 -   numpy
 -   collections
+-   pygame
 
 Usage
 -----
@@ -27,6 +28,7 @@ Files
 
 -   main.py: Execute this script. This script calls all the other scripts and displays visualization
 -   BFSalgorithm.py: Source script that contains the code for the 8 puzzle problem using Breadth First Search algorithm.
+-   visual.py: Script used for visualization of the implemented algorithm for the project
 -   Nodes.txt: Output file that contains information about each node explored during the search. The file contains three(3) columns - C (node index), P (parent node index) and Node
 -   nodePath.txt: Output file that contains the sequence of nodes in the path from the initial state to the goal state.
 -   nodeInfo: Output file that contans sequence of explored nodes.
