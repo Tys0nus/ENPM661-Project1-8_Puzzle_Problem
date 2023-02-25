@@ -3,6 +3,8 @@ Project 1 - 8 Puzzle Problem
 
 This project is a Python implementation of the 8 puzzle problem using Breadth First Search algorithm.
 
+![](https://github.com/Tys0nus/ENPM661-Project1-8_Puzzle_Problem/blob/main/sim/8%20Puzzzle%20Problem.gif)
+
 Requirements
 ------------
 
