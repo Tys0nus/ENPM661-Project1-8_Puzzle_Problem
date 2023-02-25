@@ -21,7 +21,7 @@ Usage
 -----
 
 -   Run the script main.py and press Enter.
--   The output files Nodes.txt and nodePath.txt will be generated in the same directory.
+-   The output files Nodes.txt, nodeInfo.txt and nodePath.txt will be generated in the same directory.
 
 Files
 -----
