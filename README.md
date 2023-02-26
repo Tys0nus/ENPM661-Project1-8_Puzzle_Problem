@@ -44,10 +44,11 @@ Notes
 -   The tracking function is used to generate the path for traversing from initial node to goal node.
 
 Tested Environment
+The code has been tested using Python 3.10.
 
 ------------------
 
-The code has been tested using Python 3.10.
+
 
 Author
 ------
